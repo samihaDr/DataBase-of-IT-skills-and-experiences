@@ -1,0 +1,85 @@
+.main {
+    width: 95%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.work_title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.view-timeline-btn {
+    height: 40px;
+}
+
+.manage-buttons,
+.manage_edit_cancel {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    column-gap: 30px;
+}
+
+#slider-range {
+    margin-bottom: 20px;
+}
+
+.btn-add,
+.btn-cancel,
+.edit-btn,
+.delete-btn,
+.btn-save-exp,
+.btn-cancel-exp {
+    width: 10%;
+}
+
+.used_skills {
+    height: 32px;
+}
+
+.new-experience {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.check_skills {
+    display: flex;
+    flex-direction: row;
+    column-gap: 15px;
+}
+
+.modal-header {
+    background-color: red;
+    color: white;
+}
+
+.btn-add-cancel-container {
+    flex-direction: column-reverse;
+}
+
+#infoTextarea {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.infoOk {
+    color: green;
+    font-size: small;
+}
+
+.infoNotOk {
+    color: red;
+    font-size: small;
+}
+
+.counter {
+    font-size: small;
+}
+
+.just-validate-success-label {
+    color: green;
+}

@@ -1,0 +1,10 @@
+
+.main {
+    width: 95%;
+    margin-left: 40px;
+}
+
+.button{
+
+    column-gap: 30px;
+}

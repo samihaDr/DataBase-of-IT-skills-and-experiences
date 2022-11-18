@@ -1,0 +1,9 @@
+.main {
+    width: 95%;
+    margin-left: 40px;
+}
+
+.modal-header {
+    background-color: red;
+    color: white;
+}

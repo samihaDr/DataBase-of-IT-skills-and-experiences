@@ -1,0 +1,22 @@
+.main {
+    width: 95%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.fc-event {
+    height: 40px;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+}
+
+.work_title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.view-experiences-btn {
+    height: 40px;
+}

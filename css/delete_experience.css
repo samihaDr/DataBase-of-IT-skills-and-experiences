@@ -1,0 +1,22 @@
+.main {
+    width: 50%;
+    margin-left: 40px;
+}
+
+.buttons_edition {
+    display: flex;
+    column-gap: 5px;
+}
+
+input img {
+    width: 30px;
+    height: 30px;
+}
+
+input[type="text"] {
+    height: 44px;
+}
+
+hr {
+    color: red;
+}

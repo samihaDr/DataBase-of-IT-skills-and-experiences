@@ -1,0 +1,51 @@
+.main {
+    width: 95%;
+    margin-left: 40px;
+}
+
+.manage_masterings {
+    display: flex;
+    margin-top: 30px;
+}
+
+.edit_delete_mastering_parent,
+.add_mastering_parent,
+.card-img-top {
+    width: 50%;
+}
+
+.edit_delete_mastering {
+    width: 70%;
+}
+
+.li_mastering_item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.badge_name_level {
+    display: flex;
+    justify-content: space-between;
+    font-size: 125%;
+}
+
+.add_mastering {
+    width: 40%;
+}
+
+.sorry_img {
+    display: flex;
+    justify-content: center;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.color_yellow {
+    color: #e3b526;
+}
+
+.color_red {
+    color: red;
+}
